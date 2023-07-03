@@ -2,4 +2,5 @@ Projeto para aula de qualidade de software
 aula e QA
 mudado aqui
 projeto quase concluido
+projeto concluido
 analise do PO
