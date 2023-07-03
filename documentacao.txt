@@ -4,3 +4,4 @@ mudado aqui
 projeto quase concluido
 projeto concluido
 analise do PO
+analise do QA
